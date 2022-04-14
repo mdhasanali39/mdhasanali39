@@ -1,22 +1,12 @@
-### Hi there 👋, I'm md hasan ali
+<h1 align="center">Hi 👋, I'm Md Hasan Ali</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhasanali39&label=Profile%20views&color=0e75b6&style=flat" alt="mdhasanali39" /> </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/mdhasanali39" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mdhasanali39" height="30" width="40" /></a>
+</p>
 
-👨‍💻 becoming a front-end web developer
-✍ I love to learn code and 📝 love to write code
-🧠 I love to share my knowledge with others
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> </p>
 
-![Profile views](https://gpvc.arturio.dev/mdhasanali39)
-I'm developing myself to become a front-end web developer
-
-Skills: 
-HTML / CSS
-
-- 🌱 I’m currently learning html 5 and CSS 3 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mdhasanali39)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/mdhasanali39)  
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdhasanali39)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=mdhasanali39&show_icons=true)  
- 
-
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mdhasanali39&show_icons=true&locale=en&layout=compact" alt="mdhasanali39" /></p>
