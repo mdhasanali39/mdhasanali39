@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Md Hasan Ali</h1>
 
- 👨‍💻 becoming a front-end web developer
- 📝 I love to learn code and ✍ love to write code
- 🧠 like to share my knowledge with others
+ - 👨‍💻 becoming a front-end web developer
+ - 📝 I love to learn code and ✍ love to write code
+ - 🧠 like to share my knowledge with others
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhasanali39&label=Profile%20views&color=0e75b6&style=flat" alt="mdhasanali39" /> </p>
 
