@@ -2,9 +2,10 @@
 #### becoming a front-end web developer
 I'm developing myself to become a front-end web developer
 
+
+
 Skills: HTML / CSS
 
-- 🔭 I’m currently working on this page. 
 - 🌱 I’m currently learning html 5 and CSS 3 
 
 ![Profile views](https://gpvc.arturio.dev/mdhasanali39) 
