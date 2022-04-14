@@ -1,10 +1,14 @@
 ### Hi there 👋, I'm md hasan ali
-#### becoming a front-end web developer
+
+
+- 👨‍💻 becoming a front-end web developer
+- ✍ I love to learn code and 📝 love to write code
+- 🧠 I love to share my knowledge with others
+
 I'm developing myself to become a front-end web developer
 
-
-
-Skills: HTML / CSS
+Skills: 
+HTML / CSS
 
 - 🌱 I’m currently learning html 5 and CSS 3 
 
