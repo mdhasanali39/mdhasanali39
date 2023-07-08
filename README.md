@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdhasanali39&label=Profile%20views&color=0e75b6&style=flat" alt="mdhasanali39" /> </p>
 
-I'm developing myself to become a front-end web developer and wordpress theme developer.
+I'm developing myself to become a front-end web developer.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
