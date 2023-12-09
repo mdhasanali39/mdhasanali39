@@ -31,7 +31,7 @@ I'm a front-end developer | focused on mern stack | best in front-end technologi
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/hasanalicoder/" target="blank">
+<a width="30" style="border-radius:5px" href="https://www.linkedin.com/in/hasanalicoder/" target="_blank">
 <img width="30" style="border-radius:5px" src="https://i.ibb.co/K7jxWRc/linkeding-img.png"/>
 </a>
 </p>
