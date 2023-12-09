@@ -9,6 +9,8 @@
 <p>I want to be proficient at front-end, then will be focus on the back-end.</p>
 
 📝 I love to learn code and ✍ love to write clean code
+<p>You can connect with me via:</p>
+  📧 contact.hasankhanyt@gmail.com,
 </p>
 
 ## <strong>💻 Technologies that I know</strong>
